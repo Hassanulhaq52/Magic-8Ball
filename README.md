@@ -2,15 +2,8 @@
 
 A new Flutter project created to change the states.
 
-## Getting Started
+![Magic ball](https://user-images.githubusercontent.com/81625175/187467856-822803dc-7168-4f3e-8251-e4abf07b447c.jpeg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
